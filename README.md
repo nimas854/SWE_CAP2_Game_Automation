@@ -191,3 +191,5 @@ List any resources, articles, or libraries you used or referenced while working 
 1. [https://youtu.be/F5bpI_od1h0?si=1BNpE1wVb_X-q_W5](URL)
 2. [https://youtu.be/3Gk84cwjGzY?si=gYrP0mZy7u4V8D0e](URL)
 
+## Google Drive Video
+[Google Drive link](https://drive.google.com/drive/folders/1xTLuFSW3yjlDNZm43x0movUdcK_yerKb?usp=drive_link)
